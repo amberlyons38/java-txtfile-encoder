@@ -46,7 +46,7 @@ class MyCipher{
         return en;
     }
 }
-public class AmberLyonsLab6 {
+public class TxtEncoder {
     public static void main(String[] args) throws IOException{
         try{
             //See if an encoded file already exists, and quit program if it does.
