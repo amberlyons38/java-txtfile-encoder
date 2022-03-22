@@ -1,0 +1,2 @@
+//Example message.txt after it has been encoded using the program with an encryption key of 7.
+gopzgpzghgzhtwslgtlzzhnlggglwshjlgaolgalaagpugaopzgmpslgapaogavaygvauggvygjylhalghgulagalaagmpslgavgilglujvklkg
